@@ -5,7 +5,7 @@ Simple route for single page websites
 
 ---- HTML file ----
 
-<button data-route-path="home">Page 1</button>
+'<button data-route-path="home">Page 1</button>'
 <button data-route-path="new" class="wadasd">Page 2</button>
 <p data-route-path="old" id="dasd">Page 3</p>
 <a data-route-path="temp" href="">Page 4</a>
